@@ -6,7 +6,7 @@ members = ["protocol", "sdk", "connectors/postgres", "connectors/mysql", "connec
 version = "0.2.0"
 edition = "2024"
 license = "MIT"
-repository = "https://github.com/gsoulat/quarry-connectors"
+repository = "https://github.com/gsoulat/dbphoque-connectors"
 
 [workspace.dependencies]
 quarry-protocol = { path = "protocol" }

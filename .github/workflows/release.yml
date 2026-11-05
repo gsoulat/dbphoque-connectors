@@ -5,7 +5,7 @@
 # `v<version>` et crée la Release. Les jobs suivants compilent chaque
 # connecteur depuis ce tag pour macOS (Apple Silicon et Intel), Linux et
 # Windows, calculent les empreintes SHA-256 et attachent les binaires et
-# `registry.json` à la Release. Quarry lit
+# `registry.json` à la Release. DBphoque lit
 # `releases/latest/download/registry.json` pour savoir quoi télécharger.
 # Le titre de la pull request devient le message du squash merge : c'est
 # lui qui doit porter le type.

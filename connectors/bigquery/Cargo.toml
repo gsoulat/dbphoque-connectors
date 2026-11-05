@@ -1,6 +1,6 @@
 [package]
 name = "quarry-connector-bigquery"
-description = "Connecteur Google BigQuery pour Quarry"
+description = "Connecteur Google BigQuery pour DBphoque"
 version.workspace = true
 edition.workspace = true
 license.workspace = true

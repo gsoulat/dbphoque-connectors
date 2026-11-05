@@ -1,6 +1,6 @@
 [package]
 name = "quarry-protocol"
-description = "Types et messages échangés entre Quarry et ses connecteurs"
+description = "Types et messages échangés entre DBphoque et ses connecteurs"
 version.workspace = true
 edition.workspace = true
 license.workspace = true
