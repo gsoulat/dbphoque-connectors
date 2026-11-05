@@ -1,6 +1,6 @@
 [package]
 name = "quarry-connector-snowflake"
-description = "Connecteur Snowflake pour Quarry (SQL REST API, clé RSA)"
+description = "Connecteur Snowflake pour DBphoque (SQL REST API, clé RSA)"
 version.workspace = true
 edition.workspace = true
 license.workspace = true

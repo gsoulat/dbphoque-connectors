@@ -1,6 +1,6 @@
 [package]
 name = "quarry-connector-sdk"
-description = "Boucle de service pour écrire un connecteur Quarry"
+description = "Boucle de service pour écrire un connecteur DBphoque"
 version.workspace = true
 edition.workspace = true
 license.workspace = true

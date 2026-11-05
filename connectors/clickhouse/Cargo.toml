@@ -1,6 +1,6 @@
 [package]
 name = "quarry-connector-clickhouse"
-description = "Connecteur ClickHouse pour Quarry (interface HTTP)"
+description = "Connecteur ClickHouse pour DBphoque (interface HTTP)"
 version.workspace = true
 edition.workspace = true
 license.workspace = true

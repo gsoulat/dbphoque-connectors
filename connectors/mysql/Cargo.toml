@@ -1,6 +1,6 @@
 [package]
 name = "quarry-connector-mysql"
-description = "Connecteur MySQL / MariaDB pour Quarry"
+description = "Connecteur MySQL / MariaDB pour DBphoque"
 version.workspace = true
 edition.workspace = true
 license.workspace = true

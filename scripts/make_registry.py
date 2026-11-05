@@ -5,7 +5,7 @@ Usage : make_registry.py <tag> <owner/repo> <dossier des binaires>
 
 Chaque binaire se nomme quarry-connector-<id>-<cible>[.exe]. Le registre
 donne, par connecteur et par cible, l'URL de téléchargement, la taille et
-l'empreinte SHA-256, que Quarry vérifie après téléchargement.
+l'empreinte SHA-256, que DBphoque vérifie après téléchargement.
 """
 
 import hashlib
